@@ -1,3 +1,7 @@
 # ML-Lab-Assignments
 
-## All ML Lab assignments of JU-UG-IT 4th Year 1st Sem
+**Name : Dipangshu Roy**
+
+**Roll : 001811001014**
+
+**JU UG IT 4th Year 1st Sem**
